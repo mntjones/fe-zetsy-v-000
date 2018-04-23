@@ -28,6 +28,9 @@ h2 {
   font-size: 2em;
 }
 
-#neck
+#necklace {
+  border: 2px;
+  border-color: rgb(152, 173, 166);
+}
 /* border is same as h1, border around press 204 */
 /* Write all remaining styles here */
