@@ -40,5 +40,10 @@ p {
   border: 5px rgb(204, 204, 204) solid;
 }
 
+#copy {
+  text-align: right;
+  font-size: 0.5em;
+}
+
 /* border is same as h1, border around press 204 */
 /* Write all remaining styles here */
