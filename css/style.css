@@ -17,12 +17,14 @@ body {
 	padding: 0 45px 20px;
 }
 
-h1, h2 {
+h1 {
+  font-size: 48px;
   color: rgb(152, 173, 166);
 }
 
-h1 {
-  font-size: 48px;
+h2 {
+  color: rgb(152, 173, 166);
+  font-size: 24px;
 }
 
 /* border is same as h1, border around press 204 */
