@@ -31,5 +31,10 @@ h2 {
 #necklace img {
   border: 5px rgb(152, 173, 166) solid;
 }
+
+p {
+  color: #555;
+}
+
 /* border is same as h1, border around press 204 */
 /* Write all remaining styles here */
