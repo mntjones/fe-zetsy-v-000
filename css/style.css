@@ -36,5 +36,9 @@ p {
   color: #555;
 }
 
+#press img {
+  border: 5px rgb(204, 204, 204) solid;
+}
+
 /* border is same as h1, border around press 204 */
 /* Write all remaining styles here */
